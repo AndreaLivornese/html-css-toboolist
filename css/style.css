@@ -55,6 +55,9 @@ header{
 
 nav{
     width: 70%;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     
     margin: auto;
     margin-bottom:5px;
