@@ -87,7 +87,7 @@ section{
 /* fine section */
 
 
-/* new task */
+/* segni */
 
 .check{
     display: inline-block;
@@ -100,8 +100,28 @@ section{
     color: #62bfa8;
 }
 
+.cross{
+    display: inline-block;
+
+    padding:3px;
+
+    border: 1px solid #eb5852;
+    border-radius: 50%;
+
+    color: #eb5852;
+}
+
 .task{
     margin-bottom:10px;
 }
 
-/* fine new task */
+/* fine segni */
+
+
+/* tipi di task */
+
+.editorial{
+    
+}
+
+/* fine tipi di task */
