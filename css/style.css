@@ -93,9 +93,11 @@ section{
 /* segni */
 
 .check{
+    font-size: .7em;
+
     display: inline-block;
 
-    padding:3px;
+    padding:5px;
 
     border: 1px solid #62bfa8;
     border-radius: 50%;
@@ -104,9 +106,11 @@ section{
 }
 
 .cross{
+    font-size: .7em;
+
     display: inline-block;
 
-    padding:3px;
+    padding:5px;
 
     border: 1px solid #eb5852;
     border-radius: 50%;
