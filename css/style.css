@@ -32,25 +32,11 @@ header{
 }
 /* fine header */
 
-/* main */
-
-main{
-    background-color: white;
-    
-    width: 70%;
-
-    margin: auto;
-}
-
-/* fine main */
-
-
-
 /* nav */
 
 .rectangle{
     padding:10px;
-
+    
     border-style: solid;
     border-color: #cfcfcf;
     border-width: 3px;
@@ -69,8 +55,9 @@ main{
 
 nav{
     width: 70%;
-
+    
     margin: auto;
+    margin-bottom:10px;
     
     padding:16px 70px 10px;
     
@@ -79,9 +66,38 @@ nav{
 
 /* fine nav */
 
+/* main */
+
+main{
+    background-color: white;
+    
+    width: 70%;
+
+    padding:60px 70px;
+
+    margin: auto;
+}
+
+/* fine main */
+
+/* section */
+section{
+    margin-bottom:20px;
+}
+/* fine section */
+
 
 /* new task */
 
+.check{
+    display: inline-block;
 
+    padding:3px;
+
+    border: 1px solid #62bfa8;
+    border-radius: 50%;
+
+    color: #62bfa8;
+}
 
 /* fine new task */
