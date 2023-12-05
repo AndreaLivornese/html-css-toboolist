@@ -48,7 +48,24 @@ main{
 
 /* nav */
 
+.rectangle{
+    padding:10px;
 
+    border-style: solid;
+    border-color: #cfcfcf;
+    border-width: 3px;
+    border-radius: 10px; 
+}
+
+#add-task{
+    background-color: #47adf1;
+    color:white;
+}
+
+#add-section{
+    background-color: white;
+    color: #cfcfcf;
+}
 
 /* fine nav */
 
