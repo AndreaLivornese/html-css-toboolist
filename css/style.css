@@ -88,6 +88,20 @@ main{
     margin: auto;
 }
 
+h2{
+    margin-bottom: 10px;
+}
+
+ul{
+    padding:0;
+
+    list-style-type: none;
+}
+
+li{
+    margin-bottom:10px;
+}
+
 /* fine main */
 
 /* section */
@@ -122,10 +136,6 @@ section{
     border-color: #eb5852;
 
     color: #eb5852;
-}
-
-.task{
-    margin-bottom:10px;
 }
 
 /* fine segni */
