@@ -3,6 +3,8 @@
     margin:0px;
     
     font-family: Verdana, sans-serif;
+
+    box-sizing: border-box;
 }
 
 /* body */
@@ -97,28 +99,27 @@ section{
 
 /* segni */
 
-.check{
-    font-size: .7em;
-
+.circle{
     display: inline-block;
+    
+    width: 18px;
+    height: 18px;
 
-    padding:5px;
-
-    border: 1px solid #62bfa8;
+    border: 1px solid;
     border-radius: 50%;
+    
+    font-size: .7em;
+    text-align: center;
+}
+
+.check{
+    border-color: #62bfa8;
 
     color: #62bfa8;
 }
 
 .cross{
-    font-size: .7em;
-
-    display: inline-block;
-
-    padding:5px;
-
-    border: 1px solid #eb5852;
-    border-radius: 50%;
+    border-color: #eb5852;
 
     color: #eb5852;
 }
