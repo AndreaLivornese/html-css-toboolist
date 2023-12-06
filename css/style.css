@@ -42,9 +42,13 @@ header{
     border-color: #cfcfcf;
     border-width: 3px;
     border-radius: 10px; 
+
+    font-weight: bold;
 }
 
 #add-task{
+    border-color:#47adf1;
+
     background-color: #47adf1;
     color:white;
 }
